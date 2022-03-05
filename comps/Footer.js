@@ -1,7 +1,9 @@
 const Footer = () => {
   return (
     <footer>
-      Copyright 2021 Ninja List
+      <p> </p>
+      <p></p>
+      Made in California ❤️🏄
     </footer>
   );
 }
